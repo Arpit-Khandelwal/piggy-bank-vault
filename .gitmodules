@@ -1,0 +1,6 @@
+[submodule "anchor-bank"]
+	path = anchor-bank
+	url = https://github.com/Arpit-Khandelwal/anchor-bank-vault.git
+[submodule "bank-fe"]
+	path = bank-fe
+	url = https://github.com/Arpit-Khandelwal/bank-vault-fe.git
